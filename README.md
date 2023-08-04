@@ -11,7 +11,7 @@ JSON API for a random meme scraped from reddit.
 
 #### API Link
 
-```http
+```bash
   https://meme-api.com/gimme
 ```
 
@@ -25,15 +25,16 @@ Android Support Repository v23.3.0
 
 ## Volley Library Dependency
 
-```http
+```bash
   implementation 'com.android.volley:volley:1.2.0'
 ```
 ## GLide Library Dependency
 
-```http
+```bash
   implementation 'com.github.bumptech.glide:glide:4.12.0'
 annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
 ```
+
 ## Installation
 
 Clone this repository and import into Android Studio
